@@ -1,0 +1,193 @@
+:root {
+    --primary-text-color:#757575;
+    --title-text-color:#212121;
+    --accent-color:#2196F3;
+    --title-hero:#FFFFFF;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color:#FFFFFF;
+     color: #757575;
+}
+
+.logo {
+    color: #212121;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    text-decoration: none;
+
+}
+
+.logo-color {
+    color: #2196F3;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+}
+
+.list {
+    list-style: none;
+} 
+
+.site-nav a {
+   color: #212121;
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 1.14;
+   text-decoration: none;
+}
+
+.site-nav.link.current {
+    color: #2196F3;
+}
+
+.site-nav a:hover{
+    color: #2196F3;
+}
+
+.contacts-nav {
+    color: #212121;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+}
+
+.contacts-nav:hover,
+.contacts-nav:focus {
+    color: #2196F3;
+}
+
+.contact-nav {
+    color: #757575;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+}
+
+.contact-nav:hover,
+.contact-nav:focus {
+    color: #2196F3;
+}
+
+.title {
+    color: #FFFFFF;
+    background-color: #212121;
+    text-align: center;
+    width: 1000px;
+    left: 3px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height:2;
+}
+
+.button-primary {
+    color: #FFFFFF;
+    background-color:#2196F3;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 2.8;
+    width: 200px;
+    align-items: center;
+    text-align: center;
+}
+
+.section-title {
+    color: #212121;
+}
+
+.benefits {
+    color:#FFFFFF;
+}
+
+.team {
+    background-color:#F5F4FA;
+}
+
+.logo-white {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1,19;
+    text-decoration: none;
+
+}
+
+.description {
+    background-color: #212121;
+    color: #FFFFFF;
+}
+
+.street-nav {
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1;
+    text-decoration: none;
+}
+
+.street-nav:hover,
+.street-nav:focus {
+    color: #2196F3;
+}
+
+.email-nav {
+    color: rgba(255, 255, 255, 0.6);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1;
+    text-decoration: none;
+
+}
+
+.email-nav:hover,
+.email-nav:focus {
+    color: #2196F3;
+}
+
+.phone-nav {
+   color: rgba(255, 255, 255, 0.6);
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 1;
+   text-decoration: none;
+}
+
+.phone-nav:hover,
+.phone-nav:focus {
+    color: #2196F3;
+}
+
+
+
+
+
+
+    
+
